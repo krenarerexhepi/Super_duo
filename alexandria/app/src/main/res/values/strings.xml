@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Alexandria</string>
+
+    <!-- Menu Items -->
+    <string name="books" translatable="false">List of Books</string>
+    <string name="scan" translatable="false">Scan/Add a Book</string>
+    <string name="about" translatable="false">About this App</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="scan_button" translatable="false">Scan</string>
+    <string name="input_hint" translatable="false">Insert ISBN-13. Digits only.</string>
+    <string name="book_cover" translatable="false">Bookcover</string>
+
+    <string name="ok_button" translatable="false">Next</string>
+    <string name="cancel_button" translatable="false">Cancel</string>
+    <string name="not_found" translatable="false">No Book found</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="delete" translatable="false">Delete Book</string>
+    <string name="pref_startScreen" translatable="false">Select Startscreen</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+    <string name="action_share" translatable="false">Share</string>
+    <string name="back_button" translatable="false">go back</string>
+    <string name="share_text" translatable="false">A must read book: </string>
+
+    <!-- Strings for AlexandriaContacts.java class -->
+    <string name="barcode" translatable="false">Barcode Scanning...</string>
+    <string name="bookss" translatable="false">books</string>
+    <string name="authors" translatable="false">authors</string>
+    <string name="categories" translatable="false">categories</string>
+    <string name="fullbook" translatable="false">fullbook</string>
+
+    <string name="title" translatable="false">title</string>
+    <string name="imgurl" translatable="false">imgurl</string>
+    <string name="subtitle" translatable="false">subtitle</string>
+    <string name="description" translatable="false">description</string>
+    <string name="author" translatable="false">author</string>
+    <string name="category" translatable="false">category</string>
+
+    <string name="FailedToInsertRow" translatable="false">Failed to insert row into </string>
+    <string name="UnknownUri" translatable="false">Unknown uri: </string>
+
+    <string name="about_text" translatable="false">This application gets book information from a Google API. All titles, cover images, and author information come from there.
+    The original version of this app was built by Sascha Jaschke, and a modified version is developed by Krenare Rexhepi from the Udacity Android Nanodegree program. </string>
+
+    <!-- Strings for BookService.java class -->
+
+    <string name="query_param" translatable="false">q</string>
+    <string name="isbn" translatable="false">isbn :</string>
+    <string name="country" translatable="false">&amp;country=UK</string>
+    <string name="get" translatable="false">GET</string>
+    <string name="book_no_found" translatable="false">Book is not found !!!</string>
+    <string name="no_conn_message" translatable="false">No internet connection</string>
+    <string name="error" translatable="false">Error</string>
+    <string name="error_closing_stream" translatable="false">Error closing stream</string>
+    <string name="items" translatable="false">items</string>
+    <string name="volumeInfo" translatable="false">volumeInfo</string>
+    <string name="imageLinks" translatable="false">imageLinks</string>
+    <string name="thumbnail" translatable="false">thumbnail</string>
+
+
+    <string name="book_detail" translatable="false">Book Detail</string>
+    <string name="class_exception" translatable="false">Activity must implement NavigationDrawerCallbacks.</string>
+    <string name="simple_barcode" translatable="false">Barcode </string>
+    <string name="is_found" translatable="false"> is found !!</string>
+    <string name="barcode_length" translatable="false">Barcode length must be 13.</string>
+
+</resources>
